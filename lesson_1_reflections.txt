@@ -1,0 +1,6 @@
+How did viewing a diff between two versions help you spot the bug?
+
+By using the diff function, I made the computer find out all of the mistakes
+and differences between both of the files for me, meaning that I would not
+miss any mistakes and I would not have to go through all of the hundreds of
+lines of code to look for the mistakes.
